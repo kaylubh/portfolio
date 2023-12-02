@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Caleb Hemphill. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Welcome!",
+      "description": "👋 I'm Caleb Hemphill. I’m a developer who enjoys using the flexibility of programming to overcome challenges and create better experiences. I’ve always held a strong interest in technology which I have previously neglected but refocused on in order to pursue a life and career I can be passionate about every day. I most recently worked in customer service focused roles in retail and restaurant environments, these roles taught me the importance of adapting to rapidly changing situations and working collaboratively with a team. Before that, I served nine years in the Army as an intelligence analyst where I had the opportunity to be a part of and support impactful missions in a wide variety of roles. Going forward, I hope to use my diverse background and experiences along with my reignited passion for technology to find new opportunities to use the infinite potential of computing to leave a positive impact on humanity.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",

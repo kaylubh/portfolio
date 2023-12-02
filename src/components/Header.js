@@ -109,7 +109,9 @@ class Header extends Component {
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
-              
+              <div>
+              Student @ Code Fellows
+              </div>
             </div>
           </div>
         </div>
