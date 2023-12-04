@@ -82,37 +82,43 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "09.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Education"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Web Development",
+          "Software Development",
+          "Agile"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Cracker Barrel",
+        "title": "Retail Associate / Employee Training Coordinator",
+        "years": "11.2021 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Customer Oriented"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Customer Service",
+          "Teamwork",
+          "Problem Solving"
+        ]
+      },
+      {
+        "company": "US Army",
+        "title": "Intelligence Analyst",
+        "years": "01.2012 - 07.2021",
+        "mainTech": [
+          "Analysis"
+        ],
+        "technologies": [
+          "Data Analysis",
+          "Security Management",
+          "Planning",
+          "Leadership"
         ]
       }
     ]
