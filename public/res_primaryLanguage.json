@@ -15,8 +15,9 @@
         "startDate": "2023",
         "description": "An interactive website concept which centralizes information about the different varieties of tea. Collaborative team project built with HTML, CSS, and JavaScript.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/tea-explorer/p1.png",
+          "images/portfolio/tea-explorer/p2.png",
+          "images/portfolio/tea-explorer/p3.png"
         ],
         "url": "https://github.com/Team-QUICM/Tea-Explorer",
         "technologies": [
